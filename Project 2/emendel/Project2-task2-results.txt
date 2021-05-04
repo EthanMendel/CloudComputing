@@ -1,0 +1,7 @@
+Yxlin.csv:
+Beta:
+376.22292023
+
+Yxlin2.csv:
+Beta:
+55897.55076207
